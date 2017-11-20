@@ -1,0 +1,12 @@
+Acerca de las modificaciones al código de la batalla entre Marcianos y Terrícolas:
+
+Se desea ahora modelar las siguiente situaciones de modo independiente:
+
+1) Se sabe ahora que los guerreros se enfrentan en tierra y que en vez de un posible blanco o debilidad cada guerrero presenta tres. Modifique el código para modelar las nuevas condiciones de la guerra.
+
+2) Los guerreros se enfrentan en tierra, sabiendo que para ello emplean armaduras distintas. La armadura de los terrícolas tiene debilidades desconocidas por los marcianos y viceversa. Cada armadura presenta un numero distinto de debilidades. La de los terrícolas presenta cinco y la de los marcianos tres. Solo a través de tales debilidades cualquiera de los guerreros puede ser eliminado. El ejercito de marcianos tiene un numero de 5000 guerreros mientras que el de terrícolas solo 3000. El vencedor sera aquel que logra descubrir tales debilidades mas rápido y logra aprovecharlas para eliminar al enemigo. Modifique el código para modelar las nuevas condiciones de la guerra dejando que tanto las debilidades como el numero de guerreros sean modificables.
+
+3) Respecto del problema original, se sabe ahora que los disparos no siempre logran atravesar la nave. Algunos disparos rebotan, otros pasan pero se desvían sin alcanzar a ningún guerrero. Algunas veces los disparos logran alcanzar a algún guerrero y solo ese ha de determinar si el disparo le hizo dan~o o no. Se sabe además que la nave de los marcianos tiene dos puntos débiles que al ser alcanzados la destruyen (la de los terrícolas posee 3). Al igual que en el caso original la nave que se quede sin tripulantes define al perdedor. Obviamente si alguna de las naves es alcanzada en algún punto débil la batalle termina, definiendo al vencedor.
+
+Elabore tres versiones del co'digo y explique con comentarios cuales son los cambios en cada caso. Pueden organizarse en grupos de 3 o 4. La nota es individual y equivale al 25% del primer parcial. Cada grupo defenderá su proyecto en fecha definida en clase. Coloquen en el encabezado de clase principal los nombres del grupo y sus cedulas de identidad. Fecha de entrega: 10 de Junio via correo.
+
