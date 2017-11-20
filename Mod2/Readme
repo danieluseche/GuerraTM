@@ -1,0 +1,8 @@
+Los guerreros se enfrentan en tierra, sabiendo que para ello emplean armaduras distintas. 
+La armadura de los terrícolas tiene debilidades desconocidas por los marcianos y viceversa. 
+Cada armadura presenta un numero distinto de debilidades. La de los terrícolas presenta cinco y la de los marcianos tres. 
+Solo a través de tales debilidades cualquiera de los guerreros puede ser eliminado. 
+El ejercito de marcianos tiene un numero de 5000 guerreros mientras que el de terrícolas solo 3000. 
+El vencedor sera aquel que logra descubrir tales debilidades mas rápido y logra aprovecharlas para eliminar al enemigo. 
+Modifique el código para modelar las nuevas condiciones de la guerra dejando que tanto las debilidades como el numero de 
+guerreros sean modificables.
